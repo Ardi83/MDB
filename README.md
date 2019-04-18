@@ -1,9 +1,4 @@
-# git-lab-collab
-Här förstör vi git
+# 09-imdb-clone-team-berserkers
+imdb clone repo for Team Berserkers
 
-
-##välkomna
-
-##User 1:
-
-##User 2:
+Live version of site available <a href="https://u09.christianblom.se/"> here </a>
